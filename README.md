@@ -1,2 +1,2 @@
 # www.wasit.com
-This respositoty is used to host and store Project and other 
+Hey I am wasyihun from ahirdare university in Ethiopia I am intereseted on javascript pythone artificial inteligence Java and Php programing
